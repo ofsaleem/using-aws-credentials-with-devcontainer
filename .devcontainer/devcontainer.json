@@ -7,7 +7,7 @@
   "mounts": [
     "source=${localEnv:HOME}/.aws,target=/home/vscode/.aws,type=bind,readonly"
     /** Uncomment this if you want to use the devcontainer.json with another supported IDE */
-    //"source=${localEnv:HOME}/.aws,target=.aws,type=bind,readonly"
+    //"source=${localEnv:HOME}/.aws,target=/.aws,type=bind,readonly"
   ],
   /** Uncomment this if you want to use the devcontainer.json with another supported IDE */
   //"containerEnv": {
