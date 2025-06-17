@@ -2,7 +2,7 @@
 
 This project aims to provide you an example of how to use AWS credentials when developing in a Dev Containers.
 
-I have written an article about it and you can find it at https://theindiecoder/posts/use-aws-credentials-in-a-dev-container/.
+I have written an article about it and you can find it at https://theindiecoder.cloud/posts/use-aws-credentials-in-a-dev-container/.
 
 # Prerequisites
 
